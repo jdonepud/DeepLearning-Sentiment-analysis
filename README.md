@@ -7,7 +7,7 @@ This project is a **Sentiment Analysis** tool built using **NLP models** to clas
 
 ---
 
-## **⚙️ Features**  
+## **Features**  
 -> **Real-time Sentiment Analysis** of user-input text  
 -> Uses **Hugging Face Transformers** for NLP processing  
 -> Displays **sentiment scores & classifications**  
